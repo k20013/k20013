@@ -33,6 +33,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1729927103378196822/462A84963BBF71E7F749E99E2ECFAA42B734A0EE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###

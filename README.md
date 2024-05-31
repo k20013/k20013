@@ -33,6 +33,10 @@
 
 ###
 
+<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1729927103378196822/462A84963BBF71E7F749E99E2ECFAA42B734A0EE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/caleb-bravo-228684204/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
@@ -47,13 +51,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1729927103378196822/462A84963BBF71E7F749E99E2ECFAA42B734A0EE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/k20013/k20013/output/snake.svg" alt="Snake animation" />
 
 ###

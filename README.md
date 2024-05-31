@@ -27,8 +27,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k20013&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=k20013&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=k20013&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=k20013&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=k20013&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://steamuserimages-a.akamaihd.net/ugc/1729927103378196822/462A84963BBF71E7F749E99E2ECFAA42B734A0EE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+<img align="left" height="250" src="https://steamuserimages-a.akamaihd.net/ugc/1729927103378196822/462A84963BBF71E7F749E99E2ECFAA42B734A0EE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 
 ###
 
